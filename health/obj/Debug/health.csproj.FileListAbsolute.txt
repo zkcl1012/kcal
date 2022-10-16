@@ -1,0 +1,12 @@
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\bin\Debug\health.exe.config
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\bin\Debug\health.exe
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\bin\Debug\health.pdb
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.csproj.AssemblyReference.cache
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.csproj.SuggestedBindingRedirects.cache
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.Form1.resources
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.Properties.Resources.resources
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.csproj.GenerateResource.cache
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.csproj.CoreCompileInputs.cache
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.exe
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.pdb
+C:\Users\경상남도교육청\Desktop\새 폴더 (2)\health\health\obj\Debug\health.Form2.resources
